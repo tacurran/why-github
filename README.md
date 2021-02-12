@@ -34,7 +34,7 @@ Getting to real-time: Ory reports real-time status data using @Upptime , a slick
 Vincent Kraus, Community Manager @ ORY
 
 Lastly a word of wisdom from one of our ushers through the universe of software, art, work, life and creating almost anything, Hofstadter's Law: 
-"It always takes longer than you expect, even when you take into account Hofstadter's Law." (Gödel, Escher, Bach: An Eternal Golden Braid.)
+"It always takes longer than you expect, even when you take into account Hofstadter's Law." (Gödel, Escher, Bach: An Eternal Golden Braid, Basic Books; Anniversary edition 1999-02-05) (https://www.amazon.de/gp/product/0465026567/ref=dbs_a_def_rwt_bibl_vppi_i2)
 
 How do you use GitHub drive automation and create new efficiencies in your operations?  
 
