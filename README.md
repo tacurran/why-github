@@ -6,16 +6,16 @@ This repository aims to help decision makers understand the reasons to use the G
 
 ## 3. Process Landscape
 
-In business operations, especially in startups, lean processes and frugal budgets often dictate decisions. Perfection has a price, and if it comes at the cost of execution speed, it often falls to the wayside. While "robotic process automation" became popular with the business pundits and consultants over the past few years, the software industry has been deeply invovled in process automation for over a decade now. This article explains the benefits that process automation delivers to Ory and the broad community of open source contributors and adopters involved with the main Ory projects as well as the Ory core team. 
+In business operations, especially in high tech startups, lean processes and frugal budgets often dictate decisions. Perfection has a price, and if it comes at the cost of execution speed, perfection often falls to the wayside. While "robotic process automation" became popular with the business pundits and consultants over the past few years, the software industry has been deeply invovled in workflow automation for over a decade now. This article explains the benefits that "GitOps" process automation delivers to the broad Ory community of open source contributors and adopters involved with the main Ory projects, as well as the Ory core team. 
 Its important to note one of Ory's internal principles: "If a development process can be automated it will be, and if not, it will be changed to a process that can be automated." The beauty of recursion! 
 
 Ory uses numerous automation approaches to eliminate manual, repetitive tasks and integrate web applications to improve productivity including:
-- Software testing and release management such as Coveralls and CircleCI
-- GitHub Actions - scripts that automate workflows in GitHub
-- Third party automation tools such as Zapier or n8n that add new workflow processing outside GitHub
+- Software testing and release management such as Coveralls (https://coveralls.io)  and CircleCI (https://circleci.com)
+- GitHub Actions or scripts that automate workflows in GitHub (https://github.com/features/actions)
+- Third party automation tools such as Zapier (https://zapier.com) or n8n (https://n8n.io) that add new workflow processing outside GitHub
 - Real-time metrics and notifications that use GitHub repositories such as Upptime (https://github.com/upptime/upptime)
 
-Software Quality Assurance: Opene Source Software udergoes scurtiny from many difference constituants for example contributors, users, security specialists so ahving automated processes that provide data about the heath of a software build is an essential form of communcation. Auomation tools such as Coveralls informs about code coverage tests while CircleCI  provides a fully automated release piepline.
+Software Quality Assurance: Open Source Software undergoes scrutiny from many different constituants for example contributors, users, security specialists so having automated processes that provide data about the heath of a software build is an essential form of communication. Automation tools such as Coveralls informs about code coverage tests while CircleCI  provides a fully automated release pipeline.
 
 Interchange: @OryCorp uses this @GH Action to publish tweets from a GitHub repository, rather than sharing log-in credentials across the team. Instead of tweeting directly, our team can submit a pull request for review, thereby encouraging more data interchange and enabling everyone to create a @Twitter post.
 
@@ -33,7 +33,7 @@ Getting to real-time: Ory reports real-time status data using @Upptime , a slick
 ‘’Try not to let humans do what machines could do instead. As a rule of thumb, automating a common task is worth at least ten times the effort a developer would spend doing that task manually one time. For very frequent or very complex tasks, that ratio could easily go up to twenty or even higher.’’
 Vincent Kraus, Community Manager @ ORY
 
-Lastly a word of wisdom from one of our ushers through the universe of software, art, and creating almost anything, Hofstadter's Law: 
+Lastly a word of wisdom from one of our ushers through the universe of software, art, work, life and creating almost anything, Hofstadter's Law: 
 "It always takes longer than you expect, even when you take into account Hofstadter's Law." (Gödel, Escher, Bach: An Eternal Golden Braid.)
 
 How do you use GitHub drive automation and create new efficiencies in your operations?  
