@@ -6,7 +6,8 @@ This repository aims to help decision makers understand the reasons to use the G
 
 ## 3. Process Landscape
 
-In business operations, especially in startups, lean processes and frugal budgets often dictate decisions. Perfection has a price, and if it comes at the cost of execution speed, it often falls to the wayside. While robotic process automation became popular with the business pundits and consultants over the past few years, the software industry has been deeply invovled in process automation for over a decade now. This article explains the benefits that process automation delivers to Ory and the broad community of open source contributors and adopters involved with the main Ory projects as well as the Ory core team. Its important to note one of Ory's internal principles: "If a development process can be automated it will be, and if not, it will be changed to a process that can be automated." The beauty of recursion! 
+In business operations, especially in startups, lean processes and frugal budgets often dictate decisions. Perfection has a price, and if it comes at the cost of execution speed, it often falls to the wayside. While "robotic process automation" became popular with the business pundits and consultants over the past few years, the software industry has been deeply invovled in process automation for over a decade now. This article explains the benefits that process automation delivers to Ory and the broad community of open source contributors and adopters involved with the main Ory projects as well as the Ory core team. 
+Its important to note one of Ory's internal principles: "If a development process can be automated it will be, and if not, it will be changed to a process that can be automated." The beauty of recursion! 
 
 Ory uses numerous automation approaches to eliminate manual, repetitive tasks and integrate web applications to improve productivity including:
 - Software testing and release management such as Coveralls and CircleCI
@@ -26,12 +27,16 @@ Administration: Ory uses @Zapier and basic scripts to rename and store inbound i
 -Jared Preston, Co-founder and Managing Director @ ORY
 
 Engagement: @Slack release automation gives transparency over our release process. Notifications give our community realtime oversight over every release. Ory also uses GreetBot to greet new members in our Slack channel and give them a warm welcome, point them to all relevant documentation and other places that might be interesting to them.
-Reporting: Ory reports real-time status data using @Upptime , a slick automation tool that uses Github Actions and other Github tooling to provide accurate uptime stats in real-time for our websites and APIs. 
+
+Getting to real-time: Ory reports real-time status data using @Upptime , a slick automation tool that uses Github Actions and other Github tooling to provide accurate uptime stats in real-time for our websites and APIs. 
 
 ‘’Try not to let humans do what machines could do instead. As a rule of thumb, automating a common task is worth at least ten times the effort a developer would spend doing that task manually one time. For very frequent or very complex tasks, that ratio could easily go up to twenty or even higher.’’
 Vincent Kraus, Community Manager @ ORY
 
-How do you use GitHub and other third party automation tools to drive efficiency in your team?  
+Lastly a word of wisdom from one of our ushers through the universe of software, art, and creating almost anything, Hofstadter's Law: 
+"It always takes longer than you expect, even when you take into account Hofstadter's Law." (Gödel, Escher, Bach: An Eternal Golden Braid.)
+
+How do you use GitHub drive automation and create new efficiencies in your operations?  
 
 Ory is an open source project aimed at advancing the state of cloud security by making it easier and safer for developers to implement a number of boilerplate services such as credentials, service authorisation, authentication, rule based reverse proxy and access control as APIs. We appreciate your interest in Ory as we continue to help our audience understand Open Source Software and the New ID Stack. And we continue to explain the dynamics of building a world class company based on the principles of transparency, diversity and good old hard work.
 
