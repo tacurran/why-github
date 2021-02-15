@@ -29,9 +29,9 @@ Ory uses [Zapier](https://zapier.com) to integrate Google Gmail and GitHub. Inbo
 ##### Administration
 Ory uses [Zapier](https://zapier.com) and basic scripts to rename and store inbound invoices. Inbound invoices are received, reviewed and  forwarded electronically to our web based accounting software Datev for automatic posting. Using Zapier, we have set this forwarding action as a trigger to download and save the invoice to our Google Drive ‘Inbound Invoices’ folder and rename it with a simple script (by date, vendor, amount etc.) in accordance with our internal file naming convention.
 
-> "Our focus on automating and standardizing processes lets us double down on the really critical stuff needed to build the ORY business"
+> "Our focus on automating and standardizing processes lets us double down on the really critical stuff needed to build the Ory business"
 
--[Jared Preston](https://github.com/jaredpreston), Co-founder and Managing Director @ ORY
+-[Jared Preston](https://github.com/jaredpreston), Co-founder and Managing Director @ Ory
 
 ##### Engagement
 Slack release automation gives transparency over our release process, both internally and with the community. Notifications give our community realtime oversight over every single release. Ory also uses [GreetBot](https://github.com/codebuddies/greetbot) to greet new members in our Slack channel and give them a warm welcome, point them to all relevant documentation and other places that might be interesting to them. It also sends them a couple of emojis to let them know whats up. 👋 Yo
@@ -41,7 +41,7 @@ Ory reports real-time status data using [Upptime](https://github.com/upptime/upp
 
 > "Try not to let humans do what machines could do instead. As a rule of thumb, automating a common task is worth at least ten times the effort a developer would spend doing that task manually one time. For very frequent or very complex tasks, that ratio could easily go up to twenty or even higher."
 
--[Vincent Kraus](https://github.com/vinckr), Community Manager @ ORY
+-[Vincent Kraus](https://github.com/vinckr), Community Manager @ Ory
 
 Lastly a word of wisdom from one of our ushers through the universe of software, art, work, life and creating almost anything 
 
