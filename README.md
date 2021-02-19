@@ -8,7 +8,7 @@ The Vikings often brought ravens on voyages to help them locate land and food. I
 
 ### GitHub is a Motor for the Global Software Community
 
-In September 2020, GitHub had roughly 56 million members. 35 of the Fortune 50 companies use [GitHub Enterprise](https://github.com/enterprise), a special version of the GitHub platform designed around the needs of largest global enterprises, to support software product development. Finally, with 60 million new repositories and over 1.9 billion individual contributions, GitHub functions as the heart of the global software supply chain. And GitHub is an indispensable tool for budding high tech entrepreneurs.
+GitHub describes in the State of Octoverse (https://octoverse.github.com) year 2020 as "a year of extraordinary change." In September 2020, GitHub had roughly fifty-six million members. Thirty-five of the Fortune 50 companies use [GitHub Enterprise](https://github.com/enterprise), a special version of the GitHub platform designed around the needs of largest global enterprises, to support software product development. Finally, with 60 million new repositories and over 1.9 billion individual contributions, GitHub functions as the heart of the global software supply chain. And GitHub is an indispensable tool for budding high tech entrepreneurs.
 
 ### Ory Builds Open Source Products using GitHub
 
