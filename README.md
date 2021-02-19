@@ -1,10 +1,10 @@
-## Sitting on the Shoulders of Giants - How GitHub Supports Talent Acquisition 
+## Sitting on the Shoulders of Giants - How GitHub Supports Ory's Talent Acquisition 
 
 For making connections with similar minded people, for building a community for mutual benefit and promotion, learning, or just for making friends for sharing stories and experiences are some of the reasons business people spend time with social networking sites such as [Linkedin](https://www.linkedin.com/company/11374545/). Recruiting is another activity conducted in these networks. In this weeks post, we look at [GitHub](https://github.com/), the programming platform, as one of the essential tools in attracting people in a high tech start up.
 
-In a [2018 interview](https://www.tagesspiegel.de/wirtschaft/programmierer-plattform-github-im-zeichen-der-krakenkatze/23208580.html) with Ory's [Thomas Curran](https://github.com/tacurran), the German journalist [Oliver Vos](https://www.tagesspiegel.de/voss-oliver/19793232.html), writing for Der Tagesspiegel, describes GitHub as „Facebook für Programmierer“ with 31 Million members. Fast forward to 2021, and the GitHub network is now the largest magnet on earth for technical talent. 
-
 The Vikings often brought ravens on voyages to help them locate land and food. In fact, the famous ravens, Huginn and Muninn, are often depicted sitting on the shoulders of the Viking God named Odin. The birds were sort of the "eyes and ears" that brought information to Odin, and they kept a history too. With enough risks to deal with daily, every high tech entrepreneur needs some extra eyes and ears to discover more about the competitive environment, especially regarding talent. 
+
+In an interview (https://www.tagesspiegel.de/wirtschaft/programmierer-plattform-github-im-zeichen-der-krakenkatze/23208580.html) with Ory's [Thomas Curran](https://github.com/tacurran), the German journalist [Oliver Vos](https://www.tagesspiegel.de/voss-oliver/19793232.html), writing for Der Tagesspiegel in 2018, describes GitHub as „Facebook für Programmierer“ with 31 Million members. Fast forward to 2021, and the GitHub network is now the largest magnet on earth for technical talent. 
 
 ### GitHub is a Motor for the Global Software Community
 
