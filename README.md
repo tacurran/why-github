@@ -1,21 +1,67 @@
-## Sitting on the Shoulders of Giants - How GitHub Supports Talent Aquisition 
+# why-github
+This repository aims to help decision makers understand the reasons to use the GitHub platform as an orgaisational support system.
+## 1. Background
 
-For making connections with similar minded people, for building a community for mutual benefit and promotion, learning, or just for making friends for sharing stories and experiences are some of the reasons business people spend time with social networking sites such as [Linkedin](https://www.linkedin.com/company/11374545/). Recruiting is another activity conducted in these networks. In this weeks post, we look at [GitHub](https://github.com/), the programming platform, as one of the essential tools in attracting people in a high tech start up.
+## 2. Code Organisation
 
-In a [2018 interview](https://www.tagesspiegel.de/wirtschaft/programmierer-plattform-github-im-zeichen-der-krakenkatze/23208580.html) with Ory's [Thomas Curran](https://github.com/tacurran), the German journalist [Oliver Vos](https://www.tagesspiegel.de/voss-oliver/19793232.html), writing for Der Tagesspiegel, describes GitHub as „Facebook für Programmierer“ with 31 Million members. Fast forward to 2021, and the GitHub network is now the largest magnet on earth for technical talent. 
+## 3. Process Landscape
 
-The Vikings often brought ravens on voyages to help them locate land and food. In fact, the famous ravens, Huginn and Muninn, are often depicted sitting on the shoulders of the Viking God named Odin. The birds were sort of the "eyes and ears" that brought information to Odin, and they kept a history too. With enough risks to deal with daily, every high tech entrepreneur needs some extra eyes and ears to discover more about the competitive environment, especially regarding talent. 
+In business operations, especially in high tech startups, lean processes and frugal budgets often dictate decisions. Perfection has a price, and if it comes at the cost of execution speed, perfection often falls to the wayside. While "robotic process automation" became popular with the business pundits and consultants over the past few years, the software industry has been deeply invovled in workflow automation for over a decade now. This repository explains the benefits that "GitOps" process automation delivers to the broad [Ory community](https://slack.ory.sh/) of open source contributors and adopters involved with the main [Ory Projects](https://www.ory.sh/products), as well as the Ory [core team](https://github.com/orgs/ory/people). 
 
-### GitHub is a Motor for the Global Software Community
+Its important to note one of Ory's internal principles: 
+> "If a development process can be automated it will be, and if not, it will be changed to a process that can be automated." The beauty of recursion! 
 
-In September 2020, GitHub had roughly 56 million members. 35 of the Fortune 50 companies use [GitHub Enterprise](https://github.com/enterprise), a special version of the GitHub platform designed around the needs of largest global enterprises, to support software product development. Finally, with 60 million new repositories and over 1.9 billion individual contributions, GitHub functions as the heart of the global software supply chain. And GitHub is an indispensable tool for budding high tech entrepreneurs.
+Ory uses numerous automation approaches to eliminate manual, repetitive tasks and integrate web applications to improve productivity including:
+- Software testing and release management such as [Coveralls](https://coveralls.io)  and [CircleCI](https://circleci.com)
+- [GitHub Actions](https://github.com/features/actions) or scripts that automate workflows in GitHub
+- Third party automation tools such as [Zapier](https://zapier.com) or [n8n](https://n8n.io) that add new workflow processing outside GitHub
+- Real-time metrics and notifications that use GitHub repositories such as [Upptime](https://github.com/upptime/upptime)
 
-### Ory Builds Open Source Products using GitHub
+##### Software Quality Assurance
+Open Source Software undergoes scrutiny from many different constituants for example contributors, users, security specialists so having automated processes that provide data about the heath of a software build is an essential form of communication. Automation tools such as Coveralls informs about code coverage tests while CircleCI  provides a fully automated release pipeline.
 
-[Ory](https://www.ory.sh/) is committed to Open Source. Open Source Software is not a fad, its an artisan creation model that has and will continue to shape an entire generation of applications in the cloud.  Ory has an active community of contributors in [GitHub](www.github.com/ory) and, as most other popular projects, the main repositories carry a simple three word message [“we are hiring.”](https://github.com/ory/jobs) As an Open Source, and open and inclusive company Ory seeks to attract people from all walks of life. We look carefully at every applicant”s background on Github. It shows their software projects, network, and activities. More than any specific interview question, GitHub indicates what technologies are used, and how the developer has advanced in skills over the years. We even use GitHub to manage our interview questions.
+##### Interchange
+[@OryCorp](https://github.com/ory-corp) uses this a Action to publish tweets from a GitHub repository, rather than sharing log-in credentials across the team. Instead of tweeting directly, our team can submit a pull request for review, thereby encouraging more data interchange and enabling everyone to create a Twitter post.
 
-Receprosity in crucial in relationships, and Ory wants potential team memebers to also see what Ory does in detail. Often they open Github issues with questions about a project or a specific programming problem. [“Pull Requests”](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) are the vehicle for making contributions, and the best developers take pride in finding ways to impress a potential employer. Developers can also see how Ory has progressed over the years. For instance see the following [diagram](https://star-history.t9t.io/#ory/kratos&ory/oathkeeper&ory/keto&ory/hydra) showing GitHub Stars, equivalent to “likes” in [Facebook](www.facebook.com).
+##### Delegation
+Ory uses [Zapier](https://zapier.com) to integrate Google Gmail and GitHub. Inbound emails to our general [office@ory.sh](mailto:office@ory.sh?subject=Cool%20Automation&body=Hey%20Ory,%20I%20loved%20the%20article,%20thanks!) mail address are labeled according to their content, which automatically triggers a new issue in GitHub in a corresponding repository matching the label, eg. Human Resources, including adding the content of the email  for instance subject/body, and assigning the issue to the responsible team member. 
 
-### Advancing the Industry and the State of Open Source Software
+##### Administration
+Ory uses [Zapier](https://zapier.com) and basic scripts to rename and store inbound invoices. Inbound invoices are received, reviewed and  forwarded electronically to our web based accounting software Datev for automatic posting. Using Zapier, we have set this forwarding action as a trigger to download and save the invoice to our Google Drive ‘Inbound Invoices’ folder and rename it with a simple script (by date, vendor, amount etc.) in accordance with our internal file naming convention.
 
-This type of information is important for both the developer and for Ory. One of the reasons [Microsoft](https://opensource.microsoft.com/) paid 7.5 billion US dollars in 2018 for GitHub has to do with the broad community and the data it created since [GitHub's beginning in 2008](https://en.wikipedia.org/wiki/github). With Microsoft's support for the Github platform and community, the giant from Redmond has advanced the state of software development like no other company in history. And that support helps Microsoft grow,  but it also high tech startups locate talented developers that will use Microsoft products such as [Azure](https://azure.microsoft.com/en-us/) in the future. As the renowned mathematician Isaac Newton once said "If I have seen further it is by standing on the shoulders of Giants." Similar to Odin’s ravens, smart entrepreneurs look for every advantage to find talent, and GitHub is the giant with broad shoulders.
+> "Our focus on automating and standardizing processes lets us double down on the really critical stuff needed to build the Ory business"
+
+-[Jared Preston](https://github.com/jaredpreston), Co-founder and Managing Director @ Ory
+
+##### Engagement
+Slack release automation gives transparency over our release process, both internally and with the community. Notifications give our community realtime oversight over every single release. Ory also uses [GreetBot](https://github.com/codebuddies/greetbot) to greet new members in our Slack channel and give them a warm welcome, point them to all relevant documentation and other places that might be interesting to them. It also sends them a couple of emojis to let them know whats up. 👋 Yo
+
+##### Getting to real-time
+Ory reports real-time status data using [Upptime](https://github.com/upptime/upptime), a slick automation tool that uses Github Actions and other Github tooling to provide accurate uptime stats in real-time for our websites and APIs. 
+
+> "Try not to let humans do what machines could do instead. As a rule of thumb, automating a common task is worth at least ten times the effort a developer would spend doing that task manually one time. For very frequent or very complex tasks, that ratio could easily go up to twenty or even higher."
+
+-[Vincent Kraus](https://github.com/vinckr), Community Manager @ Ory
+
+Lastly a word of wisdom from one of our ushers through the universe of software, art, work, life and creating almost anything 
+
+##### Hofstadter's Law: 
+> "It always takes longer than you expect, even when you take into account Hofstadter's Law." [Gödel, Escher, Bach: An Eternal Golden Braid](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)
+
+#### How do you use GitHub drive automation and create new efficiencies in your operations?  
+[Ory](https://www.ory.sh) is an open source project aimed at advancing the state of cloud security by making it easier and safer for developers to implement a number of boilerplate services such as [credentials](https://www.github.com/ory/kratos), [service authorisation](https://www.github.com/ory/keto), [authentication](https://www.github.com/ory/hydra), [rule based reverse proxy and access control](https://www.github.com/ory/oathkeeper) as APIs. We appreciate your interest in Ory as we continue to help our audience understand Open Source Software and the New Identity Stack. And we continue to explain the dynamics of building a world class company based on the principles of transparency, diversity and good old hard work.
+
+
+## 4. Automation
+
+## 5. Deployment
+
+## 6. Statistics and Metrics
+
+## 7. API
+
+## 8. Publication GitHub.io
+
+## 9. Personalisation
+
+## 10. License Management and Legal Conventions
