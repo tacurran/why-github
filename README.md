@@ -1,4 +1,4 @@
-## Sitting on the Shoulders of Giants - How GitHub Supports Talent Aquisition 
+## Sitting on the Shoulders of Giants - How GitHub Supports Talent Acquisition 
 
 For making connections with similar minded people, for building a community for mutual benefit and promotion, learning, or just for making friends for sharing stories and experiences are some of the reasons business people spend time with social networking sites such as [Linkedin](https://www.linkedin.com/company/11374545/). Recruiting is another activity conducted in these networks. In this weeks post, we look at [GitHub](https://github.com/), the programming platform, as one of the essential tools in attracting people in a high tech start up.
 
