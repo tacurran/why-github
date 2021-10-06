@@ -1,3 +1,21 @@
+---
+path: '/what-makes-a-great-open-source-project-github-pt1/'
+banner: '/images/blog-banner-ory.png'
+title: >
+  What makes a “Great Open Source Project” in GitHub (Part One)
+
+teaser: >
+  Not all projects within GitHub are equal - what indicates that any given open source project has wings?
+
+seo:
+  keywords: |
+    github, open-source, automation, developers 
+publishedAt: '2020-10-06'
+author: tacurran
+
+overline: >
+  GitHub
+---
 ## What makes a “Great Open Source Project” in GitHub (Part One)
  
 In German there is a saying “Two beers is a cutlet.” It's supposed to mean, I guess, that drinking two beers has the same amount of calories as eating a deep fried breadcrumbed cutlet. I imagine that Germans coined this during the time of Lent. Fasting over beer while dreaming of mouth watering veal may lead to delusions. At least, like many things around us, the number of calories in a cutlet is hard to measure. And this article is all about measurements.
